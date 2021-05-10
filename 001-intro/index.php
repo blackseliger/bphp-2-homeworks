@@ -45,4 +45,3 @@ if (is_bool($variable)) {
 
 
 
-?>
